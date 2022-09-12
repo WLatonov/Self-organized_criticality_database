@@ -1,3 +1,3 @@
 # Self-organized_criticality_database
-The project contains a complete list of magazine and newspaper notes on the liberal agenda in the Russian Empire in the 1815-1825 period.
-Проект содержит полный список журнальных и газетных заметок на либеральную повестку в Российской империи в период 1815-1825 гг.
+Проект содержит полный список журнальных и газетных заметок на либеральную повестку в Российской империи в период 1815-1825 гг. Этот список представляет собой приложение к статье Латоновой А.В. и Латонова В.В. "Применение теории самоорганизованной критичности к анализу либеральной повестки в прессе 1815-1825 гг.".
+The project contains a complete list of magazine and newspaper notes on the liberal agenda in the Russian Empire in the 1815-1825 period. This list is an appendix to the article by Latonova A.V. and Latonov V.V. "Application of the theory of self-organized criticality to the analysis of the liberal agenda in the press of 1815-1825".
